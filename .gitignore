@@ -59,3 +59,4 @@ images/*
 public/js/facebook-init.js
 *.sublime-*
 node_modules/*
+public/assets/*

@@ -10,7 +10,10 @@
     "jquery-timeago": ">=0.0.1",
     "CKEditor": "git://github.com/ckeditor/ckeditor-releases.git",
     "scss-mixins": ">=0.0.1",
-    "highlightjs": ">=0.0.1"
+    "highlightjs": ">=0.0.1",
+    "angular": "~1.3.0",
+    "angular-ui-router": "~0.2.11",
+    "angular-bootstrap": "~0.11.2"
   },
   "homepage": "https://github.com/Gabs00/rwdwire",
   "authors": [
