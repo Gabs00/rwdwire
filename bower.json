@@ -1,15 +1,34 @@
 {
-	"name" : "RWDWire",
-	"version" : "0.1.0",
-	"main" : "public/css/default.css",
-	"dependencies" : {
-		"requirejs" : ">=0.0.1",
-		"jquery" : ">=0.0.1",
-		"underscore" : ">=0.0.1",
-		"backbone" : ">=0.0.1",
-		"jquery-timeago" : ">=0.0.1",
-		"CKEditor": "git://github.com/ckeditor/ckeditor-releases.git",
-		"scss-mixins" : ">=0.0.1",
-		"highlightjs" : ">=0.0.1"
-	}
+  "name": "RWDWire-Two",
+  "version": "0.2.0",
+  "main": "index.html",
+  "dependencies": {
+    "requirejs": ">=0.0.1",
+    "jquery": ">=0.0.1",
+    "underscore": ">=0.0.1",
+    "backbone": ">=0.0.1",
+    "jquery-timeago": ">=0.0.1",
+    "CKEditor": "git://github.com/ckeditor/ckeditor-releases.git",
+    "scss-mixins": ">=0.0.1",
+    "highlightjs": ">=0.0.1"
+  },
+  "homepage": "https://github.com/Gabs00/rwdwire",
+  "authors": [
+    "Gabs00 <gewen87@gmail.com>"
+  ],
+  "description": "Responsive Wireframes",
+  "keywords": [
+    "javascript",
+    "fullstack",
+    "wireframe"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/assets",
+    "test",
+    "tests"
+  ]
 }
